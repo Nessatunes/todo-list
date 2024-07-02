@@ -22,5 +22,5 @@ Este projeto foi construído usando as seguintes dependências principais:
 - **mongoose:** Biblioteca para modelagem de dados MongoDB.
 - **nodemon:** Ferramenta para reiniciar automaticamente o servidor Node.js em caso de alterações no código.
 
-![Foto](src/assets//foto.png)
-![Foto](src/assets//foto2.png)
+![Foto](https://github.com/Nessatunes/todo-list/blob/main/todo-list-front/src/assets/foto.png)
+![Foto](https://github.com/Nessatunes/todo-list/blob/main/todo-list-front/src/assets/foto2.png)
